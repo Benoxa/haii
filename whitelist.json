@@ -1,8 +1,6 @@
 {
     "users":[
-        Batman = {
-		GrappleHook = {1}
-	},
+        Batman = 555,
         3421485904,
         1994595371
     ]
